@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- created with www.majento.ru -->
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+	<loc>http://servalstar.ru/</loc>
+	<lastmod>2021-03-27T02:35:41+03:00</lastmod>
+	<priority>1.00</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://servalstar.ru/index.html</loc>
+	<lastmod>2021-03-27T18:35:41+03:00</lastmod>
+	<priority>0.90</priority>
+	<changefreq>weekly</changefreq>
+</url>
+</urlset>

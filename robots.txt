@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Host: http://servalstar.ru
+Sitemap: http://servalstar.ru/sitemap.xml
