@@ -1,4 +1,4 @@
-Season 10|
+Season 27|
 RareChest,0;
 Coins,2000;
 Gems,25;

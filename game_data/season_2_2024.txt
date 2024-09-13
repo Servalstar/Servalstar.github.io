@@ -1,4 +1,4 @@
-Season 13|
+Season 17|
 RareChest,0;
 Coins,2000;
 Gems,25;

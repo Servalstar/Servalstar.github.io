@@ -1,4 +1,4 @@
-Season 14|
+Season 24|
 RareChest,0;
 Coins,2000;
 Gems,25;

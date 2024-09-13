@@ -1,4 +1,4 @@
-Season 6|
+Season 19|
 RareChest,0;
 Coins,2000;
 Gems,25;

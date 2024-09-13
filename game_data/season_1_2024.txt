@@ -1,4 +1,4 @@
-Season 3|
+Season 16|
 RareChest,0;
 Coins,2000;
 Gems,25;

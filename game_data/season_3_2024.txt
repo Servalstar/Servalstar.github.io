@@ -1,4 +1,4 @@
-Season 12|
+Season 18|
 RareChest,0;
 Coins,2000;
 Gems,25;

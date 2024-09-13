@@ -1,4 +1,4 @@
-Season 5|
+Season 21|
 RareChest,0;
 Coins,2000;
 Gems,25;
